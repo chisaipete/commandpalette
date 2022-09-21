@@ -13,7 +13,7 @@
     "vue": "^2.6.11",
     "vue-clipboard2": "^0.3.1",
     "vue-grid-layout": "^2.3.7",
-    "vuetify": "^2.2.27",
+    "vuetify": "^2.6.10",
     "vuetify-toast-snackbar": "^0.6.1"
   },
   "devDependencies": {
